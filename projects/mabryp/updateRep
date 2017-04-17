@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#update local repository with new files
+
+
+
+
+git remote add upstream "https://github.com/aburasa/CS362-004-SP17.git"
+git checkout master
+git fetch upstream
+git merge upstream/master -m "Sync"
+
