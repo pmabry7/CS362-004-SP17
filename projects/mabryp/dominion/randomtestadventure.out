@@ -1,0 +1,13 @@
+randomtestadventure.c:
+
+Testing the adventurerEffect function.
+Test failed! The function did not return the correct number of cards
+Test failed! The function did not return the correct number of treasure cards
+ADVENTUREREFFECT TESTS HAVE FAILED!
+File 'dominion.c'
+Lines executed:21.79% of 560
+Branches executed:19.18% of 417
+Taken at least once:15.83% of 417
+Calls executed:11.83% of 93
+Creating 'dominion.c.gcov'
+

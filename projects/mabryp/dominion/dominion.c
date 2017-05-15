@@ -1301,13 +1301,15 @@ int adventureEffect(struct gameState *state, int currentPlayer, int handPos){
 }
 int smithyEffect(struct gameState *state, int currentPlayer, int handPos){
 	int i;
+	
 	for (i = 1; i < 3; i++)
 		{
+		
 		  drawCard(currentPlayer, state);
 		}
-				
+			
 		  //discard card from hand
-	discardCard(handPos, currentPlayer, state, 0);
+	//discardCard(handPos, currentPlayer, state, 0);
 	return 0;
 }
 int stewardEffect(struct gameState *state, int currentPlayer, int handPos, int choice1, int choice2, int choice3)
@@ -1348,6 +1350,7 @@ int villageEffect(struct gameState *state, int currentPlayer, int handPos)
 }
 int greatHallEffect(struct gameState *state, int currentPlayer, int handPos)
 {
+	
 	      //+1 Card
       drawCard(currentPlayer, state);
 			
@@ -1355,7 +1358,7 @@ int greatHallEffect(struct gameState *state, int currentPlayer, int handPos)
       state->numActions++;
 			
       //discard card from hand
-      discardCard(handPos, currentPlayer, state, 0);
+      //discardCard(handPos, currentPlayer, state, 0);
       return 0;
 }
 

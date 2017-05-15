@@ -1,0 +1,12 @@
+randomtestcard2.c:
+
+Testing the greatHallEffect function.
+Testing Great Hall card.
+RANDOM TESTS.
+File 'dominion.c'
+Lines executed:19.82% of 560
+Branches executed:17.27% of 417
+Taken at least once:14.63% of 417
+Calls executed:10.75% of 93
+Creating 'dominion.c.gcov'
+

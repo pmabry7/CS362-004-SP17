@@ -1,0 +1,10 @@
+randomtestcard1.c:
+Testing Smithy card.
+RANDOM TESTS.
+File 'dominion.c'
+Lines executed:19.11% of 560
+Branches executed:17.27% of 417
+Taken at least once:14.63% of 417
+Calls executed:9.68% of 93
+Creating 'dominion.c.gcov'
+
