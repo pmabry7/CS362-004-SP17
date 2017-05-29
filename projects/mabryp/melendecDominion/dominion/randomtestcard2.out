@@ -1,0 +1,11 @@
+randomtestcard2.c:
+Testing Great Hall card.
+RANDOM TESTS.
+ALL TESTS OK
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+

@@ -1,0 +1,105 @@
+Running unit tests: 
+unittest1.c:
+
+Testing the isGameOver function
+Initialization passed!
+Game over. Province-empty test passed!
+Two empty supply test passed!
+Game over. Three empty supply test passed!
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+
+Testing the supplyCount function.
+Curse card test succeeded!
+Victory card test succeeded!
+Kingdom card test succeeded!
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+
+Testing the whoseTurn function.
+Initialization passed!
+Test passed passed!
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+
+Testing the numHandCards function.
+Initialization passed!
+Test passed!
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+cardtest1.c:
+
+Testing the villageEffect function.
+ALL TESTS HAVE PASSED!
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+cardtest2.c:
+
+Testing the greatHallEffect function.
+Test passed! The number of cards and actions are correct
+ALL TESTS HAVE PASSED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+cardtest3.c:
+
+Testing the smithyEffect function.
+Test failed! The function did not return the correct number of cards
+SMITHYEFFECT TESTS HAVE FAILED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
+cardtest4.c:
+
+Testing the adventurerEffect function.
+Test failed! The function did not return the correct number of cards
+Test failed! The function did not return the correct number of treasure cards
+ADVENTUREREFFECT TESTS HAVE FAILED!
+File 'dominion.c'
+Lines executed:29.20% of 548
+Branches executed:28.06% of 417
+Taken at least once:20.14% of 417
+Calls executed:18.89% of 90
+Creating 'dominion.c.gcov'
+
